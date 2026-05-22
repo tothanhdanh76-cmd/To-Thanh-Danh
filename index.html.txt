@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Understanding Basic Arm Wrestling Techniques</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>A Guide to Core Arm Wrestling Techniques for Beginners</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Introduction</h2>
+            <p>Arm wrestling is a highly competitive sport that requires a combination of muscular strength, strategic
+                leverage, and precise hand positioning. To win a match, pulling athletes must master the core technical
+                styles rather than relying solely on raw power.</p>
+        </section>
+
+        <section>
+            <h2>3 Most Common Arm Wrestling Styles</h2>
+            <p>Below is a list of the three fundamental techniques used by professional pullers on the table:</p>
+
+            <ul>
+                <li><strong>Toproll:</strong> An outside move focused on leverage. The puller applies pressure to the
+                    opponent's fingers, forcing their hand open and breaking their wrist flexion.</li>
+                <li><strong>Hook:</strong> An inside power move. The puller curls their wrist inward, engaging the
+                    biceps and forearm muscles to engage in a close-quarters strength battle.</li>
+                <li><strong>Press:</strong> A finishing move where the puller rotates their shoulder forward, using
+                    upper body weight and triceps strength to drive the opponent's hand down straight to the pad.</li>
+            </ul>
+        </section>
+
+    <section>
+        <h2>Technical Visual Illustrations</h2>
+        <p>Review the specific biomechanical diagrams below to visualize how vectors and hand positions change across
+            different styles:</p>
+    
+        <h3>1. The Toproll Technique</h3>
+        <img src="toproll.jpg"
+            alt="My personal photo demonstrating the leverage force vectors and hand positioning during a Toproll practice"
+            width="350">
+    
+        <h3>2. The Hook Technique</h3>
+        <img src="hook.jpg"
+            alt="My personal photo displaying wrist flexion and close-quarters bicep engagement during an inside Hook lock"
+            width="350">
+    
+        <h3>3. The Arm Wrestling Press</h3>
+        <img src="hookpress.jpg"
+            alt="My personal photo showing upper body weight rotation and shoulder positioning required for a table Press finishing move"
+            width="350">
+    </section>
+
+        <section>
+            <h2>External References</h2>
+            <p>To read more about official tournament regulations, weight classes, and global match histories, you can
+                visit the <a href="https://en.wikipedia.org/wiki/Arm_wrestling" target="_blank"
+                    rel="noopener noreferrer">Arm Wrestling World Federation Portal on Wikipedia</a>.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Web Interface Designed by Coursera Learner.</p>
+    </footer>
+
+</body>
+
+</html>
